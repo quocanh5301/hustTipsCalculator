@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QAnhTipCalculateHust</string>
+    <string name="tip_input_hint">Cost of service</string>
+    <string name="question">How was the service?</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="amazing">Amazing(20%)</string>
+    <string name="good">Good(18%)</string>
+    <string name="okay">Okay(15%)</string>
+</resources>
